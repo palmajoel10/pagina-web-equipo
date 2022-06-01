@@ -1,0 +1,18 @@
+body {
+    margin: 0px;
+    background-color: aliceblue;
+    font-family: 'Tiro Devanagari Marathi', serif;
+}
+
+.page-nav {
+    background-color: #2196f3;
+    border: 1px solid black;
+
+}
+.page-nav h1 {
+    margin: 20px;
+}
+.page-content {
+    border: 1px solid red;
+
+}
