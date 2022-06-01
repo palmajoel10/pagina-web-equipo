@@ -1,0 +1,12 @@
+.caruselcito {
+  height: 700px;
+  width: 700px;
+}
+
+.flecha-negra {
+    background-color: black;
+}
+
+.max-imagen {
+    max-height: 700px;
+}
