@@ -1,3 +1,14 @@
+body {
+    background-color: #525050;    
+}
 .titulo {
-    margin-right: auto;
+    margin: 8px;
+    padding: 8px;
+    background-color: #fafaf9;
+    border-width: 6px;
+    text-align: center;
+}
+
+.contenedor {
+
 }
