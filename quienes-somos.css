@@ -56,6 +56,15 @@ body {
 .aboutus-content p {
   font-size: 16px;
   line-height: 27px; }
+
+  /*-- title --*/
+  
+   .section-title {
+    text-align: center;
+    border-top: 1px solid #9b9b9b;
+    padding-top: 20px;
+
+  }
   
  /*-- counter --*/
 .counter {
@@ -88,3 +97,12 @@ body {
       font-weight: 600;
       margin-bottom: 0;
       color: #8f8f8f; }
+
+      /* --conteiner--*/
+
+      .col-12 {
+        padding: 50px;
+      }
+    .card-body {
+        background-color: #9b9b9b;
+      }
