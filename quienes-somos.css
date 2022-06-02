@@ -1,5 +1,5 @@
 body {
-    background-color: #706e6e;    
+    background-color: #eeeeee;    
 }
 .titulo {
     margin: 8px;
@@ -45,7 +45,7 @@ body {
       font-size: 30px;
       line-height: 30px; } }
   .aboutus-content h1 span {
-    color: #6cdad4; }
+    color: #a7a7a7; }
 
 .aboutus-content h4 {
   font-size: 18px;
@@ -88,7 +88,7 @@ body {
       border-left: 1px solid #eeeeee; }
     .counter .single-counter h2 {
       font-size: 30px;
-      color: #6cdad4;
+      color: #9b9b9b;
       line-height: 24px;
       font-family: "Open Sans", sans-serif;
       margin-bottom: 8px; }
@@ -96,7 +96,7 @@ body {
       font-size: 16px;
       font-weight: 600;
       margin-bottom: 0;
-      color: #8f8f8f; }
+      color: #9b9b9b; }
 
       /* --conteiner--*/
 
@@ -105,4 +105,5 @@ body {
       }
     .card-body {
         background-color: #9b9b9b;
+        border-radius: 4px;
       }
