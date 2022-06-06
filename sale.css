@@ -1,0 +1,9 @@
+body {
+    background-color: #F1F2F6;
+}
+.carousel-item {
+    max-height: 30rem;
+}
+.card {
+    max-height: 10rem;
+}
